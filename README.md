@@ -1,29 +1,4 @@
 ## Final Project
-- Intro
-- Create a Boat
-- Get a Boat
-- List all Boats
-- Put a Boat
-- Patch a Boat
-- Delete a Boat
-- Create a Marina
-- Get a Marina
-- List all Marinas
-- Put a Marina
-- Patch a Marina
-- Delete a Marina
-- Boat Arrives at a Marina
-- Boat Departs a Marina
-- Create a Load
-- Get a Load
-- List all Loads
-- Put a Load
-- Patch a Load
-- Delete a Load
-- Boat Picks up a Load
-- Boat Drops off a Load
-- List all User-Specific Boats
-
 
 ## Intro
 
