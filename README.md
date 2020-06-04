@@ -1,7 +1,5 @@
 ## Final Project
-
-   - Fall CS 493: Cloud Application Development
-- Intro............................................................................................................................................................... Oregon State University
+- Intro
 - Create a Boat
 - Get a Boat
 - List all Boats
