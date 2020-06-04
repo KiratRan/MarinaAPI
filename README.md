@@ -1,5 +1,3 @@
-## Final Project
-
 ## Intro
 
 ```
